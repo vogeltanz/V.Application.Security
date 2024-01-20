@@ -10,4 +10,8 @@
     <ProjectReference Include="..\..\V.Infrastructure.EF.Identity\V.Infrastructure.EF.Identity.Base\V.Infrastructure.EF.Identity.Base.csproj" />
     <ProjectReference Include="..\V.Application.Security.Abstraction\V.Application.Security.Abstraction.csproj" />
   </ItemGroup>
+
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
 </Project>

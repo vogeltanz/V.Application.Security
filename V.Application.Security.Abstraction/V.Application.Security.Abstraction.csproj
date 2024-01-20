@@ -5,4 +5,7 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\V.Domain\V.Domain.Identity\V.Domain.Identity.csproj" />
+  </ItemGroup>
 </Project>
