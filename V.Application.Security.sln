@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V.Application.Security.Iden
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V.Infrastructure.EF.Identity.Base", "..\V.Infrastructure.EF.Identity\V.Infrastructure.EF.Identity.Base\V.Infrastructure.EF.Identity.Base.csproj", "{817AF542-7D4F-4AF6-AA52-74F2D52BC4FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V.Application.Security.Identity.Tests", "V.Application.Security.Identity.Tests\V.Application.Security.Identity.Tests.csproj", "{5AF4EFBF-1C83-4D29-89E5-ADE53ECCF3DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{817AF542-7D4F-4AF6-AA52-74F2D52BC4FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{817AF542-7D4F-4AF6-AA52-74F2D52BC4FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{817AF542-7D4F-4AF6-AA52-74F2D52BC4FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AF4EFBF-1C83-4D29-89E5-ADE53ECCF3DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AF4EFBF-1C83-4D29-89E5-ADE53ECCF3DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AF4EFBF-1C83-4D29-89E5-ADE53ECCF3DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AF4EFBF-1C83-4D29-89E5-ADE53ECCF3DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
